@@ -2,7 +2,7 @@
 
 ### Demo: https://sauravhathi.github.io/linked-list-javascript
 
-## linked-list-insertion
+## 1. linked-list-insertion
 
 ![image](https://user-images.githubusercontent.com/61316762/195710082-2f6d173c-14ed-49b6-a395-f171c4bfdf57.png)
 
