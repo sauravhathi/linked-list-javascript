@@ -20,7 +20,7 @@ The approach I took was to create a function that takes in a linked list, a valu
 ## Installation
 
 ```bash
-git clone
+git clone https://github.com/sauravhathi/linked-list-javascript.git
 ```
 
 ## Usage
