@@ -26,7 +26,7 @@ git clone https://github.com/sauravhathi/linked-list-javascript.git
 ## Usage
 
 ```bash
-cd linked-list-insertion
+cd linked-list-javascript/linked-list-insertion
 ```
 
 ```bash
